@@ -1,0 +1,26 @@
+PODS:
+  - Charts (3.6.0):
+    - Charts/Core (= 3.6.0)
+  - Charts/Core (3.6.0)
+  - DropDown (2.3.6)
+  - JNKeychain (0.1.4)
+
+DEPENDENCIES:
+  - Charts
+  - DropDown
+  - JNKeychain
+
+SPEC REPOS:
+  trunk:
+    - Charts
+    - DropDown
+    - JNKeychain
+
+SPEC CHECKSUMS:
+  Charts: b1e3a1f5a1c9ba5394438ca3b91bd8c9076310af
+  DropDown: e8bfbce001b2e6b7e8abfdd42e12b565712d84f4
+  JNKeychain: fb6cc9ec95959ba46cd95d0ee6f7a05e41da9f42
+
+PODFILE CHECKSUM: c91559f83e533546e1a2c809b60500ea8ced7470
+
+COCOAPODS: 1.11.3

@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0C390E98-4F00-400C-A891-F66101EF6D26"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F188B90A-A0E5-43F1-8592-560122F3CEFF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mScoreNew/Helper/SessionManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "133"
+            endingLineNumber = "133"
+            landmarkName = "successFailhandler(statusCode:modelInfo:exmsg:showFailure:vc:msgShow:comepletion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F188B90A-A0E5-43F1-8592-560122F3CEFF - bbcf8afba75eb7fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[6] = Dead, Arg[7] = Owned To Guaranteed, Arg[8] = Owned To Guaranteed&gt; of function signature specialization &lt;Arg[6] = [Closure Propagated : closure #1 (Swift.Bool) -&gt; () in closure #1 (Swift.Int) -&gt; () in closure #1 (Swift.Result&lt;__C.NSDictionary, mScoreKakkur.NetworkError&gt;) -&gt; () in mScoreKakkur.WalletServicesViewController.OwnAccounDetails() -&gt; (), Argument Types : [__C.NSDictionarymScoreKakkur.WalletServicesViewController]&gt; of mScoreKakkur.ParserViewModel.successFailhandler(statusCode: Swift.Int, modelInfo: __C.NSDictionary, exmsg: Swift.String, showFailure: mScoreKakkur.errorShow, vc: __C.UIViewController, msgShow: Swift.Bool, comepletion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "mScoreKakkur"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iOSWorkspce/mScoreNEW/mScoreNew/Helper/SessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "764">
+               </Location>
+               <Location
+                  uuid = "F188B90A-A0E5-43F1-8592-560122F3CEFF - cfb6ee3664f5fabe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[6] = Dead, Arg[7] = Owned To Guaranteed, Arg[8] = Owned To Guaranteed&gt; of function signature specialization &lt;Arg[6] = [Closure Propagated : closure #1 (Swift.Bool) -&gt; () in closure #1 (Swift.Int) -&gt; () in closure #1 (Swift.Result&lt;__C.NSDictionary, mScoreKakkur.NetworkError&gt;) -&gt; () in mScoreKakkur.KSEBViewController.OwnAccounDetails() -&gt; (), Argument Types : [__C.NSDictionarymScoreKakkur.KSEBViewController]&gt; of mScoreKakkur.ParserViewModel.successFailhandler(statusCode: Swift.Int, modelInfo: __C.NSDictionary, exmsg: Swift.String, showFailure: mScoreKakkur.errorShow, vc: __C.UIViewController, msgShow: Swift.Bool, comepletion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "mScoreKakkur"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iOSWorkspce/mScoreNEW/mScoreNew/Helper/SessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "764">
+               </Location>
+               <Location
+                  uuid = "F188B90A-A0E5-43F1-8592-560122F3CEFF - b0e7ee41a13231b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[6] = Dead, Arg[7] = Owned To Guaranteed, Arg[8] = Owned To Guaranteed&gt; of function signature specialization &lt;Arg[6] = [Closure Propagated : closure #1 (Swift.Bool) -&gt; () in closure #1 (Swift.Int) -&gt; () in closure #1 (Swift.Result&lt;__C.NSDictionary, mScoreKakkur.NetworkError&gt;) -&gt; () in mScoreKakkur.ReachargeViewController.(OwnAccounDetails in _6902B42E509D38DAF1966587C02F8D1D)() -&gt; (), Argument Types : [__C.NSDictionarymScoreKakkur.ReachargeViewController]&gt; of mScoreKakkur.ParserViewModel.successFailhandler(statusCode: Swift.Int, modelInfo: __C.NSDictionary, exmsg: Swift.String, showFailure: mScoreKakkur.errorShow, vc: __C.UIViewController, msgShow: Swift.Bool, comepletion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "mScoreKakkur"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iOSWorkspce/mScoreNEW/mScoreNew/Helper/SessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "764">
+               </Location>
+               <Location
+                  uuid = "F188B90A-A0E5-43F1-8592-560122F3CEFF - 437a8414ec56c725"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[6] = Dead, Arg[7] = Owned To Guaranteed, Arg[8] = Owned To Guaranteed&gt; of function signature specialization &lt;Arg[6] = [Closure Propagated : closure #1 (Swift.Bool) -&gt; () in closure #1 (Swift.Int) -&gt; () in closure #1 (Swift.Result&lt;__C.NSDictionary, mScoreKakkur.NetworkError&gt;) -&gt; () in mScoreKakkur.HomeViewController.ownAccountDetails() -&gt; (), Argument Types : [__C.NSDictionarymScoreKakkur.HomeViewController]&gt; of mScoreKakkur.ParserViewModel.successFailhandler(statusCode: Swift.Int, modelInfo: __C.NSDictionary, exmsg: Swift.String, showFailure: mScoreKakkur.errorShow, vc: __C.UIViewController, msgShow: Swift.Bool, comepletion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "mScoreKakkur"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iOSWorkspce/mScoreNEW/mScoreNew/Helper/SessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "764">
+               </Location>
+               <Location
+                  uuid = "F188B90A-A0E5-43F1-8592-560122F3CEFF - 8b2bc96dd828d90d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[6] = Dead, Arg[7] = Owned To Guaranteed, Arg[8] = Owned To Guaranteed&gt; of function signature specialization &lt;Arg[6] = [Closure Propagated : closure #2 (Swift.Bool) -&gt; () in closure #1 (Swift.Int) -&gt; () in closure #2 (Swift.Result&lt;__C.NSDictionary, mScoreKakkur.NetworkError&gt;) -&gt; () in mScoreKakkur.SectionSearchViewController.(searchSectionAreaListApi in _B86B494CE3ADFBCB0E4E8D8B44F00F59)(sections: Swift.String) -&gt; (), Argument Types : [__C.NSDictionarymScoreKakkur.SectionSearchViewController]&gt; of mScoreKakkur.ParserViewModel.successFailhandler(statusCode: Swift.Int, modelInfo: __C.NSDictionary, exmsg: Swift.String, showFailure: mScoreKakkur.errorShow, vc: __C.UIViewController, msgShow: Swift.Bool, comepletion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "mScoreKakkur"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iOSWorkspce/mScoreNEW/mScoreNew/Helper/SessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "764">
+               </Location>
+               <Location
+                  uuid = "F188B90A-A0E5-43F1-8592-560122F3CEFF - 4b2ff4115b4cf0f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[6] = Dead, Arg[7] = Owned To Guaranteed, Arg[8] = Owned To Guaranteed&gt; of function signature specialization &lt;Arg[6] = [Closure Propagated : closure #1 (Swift.Bool) -&gt; () in closure #1 (Swift.Int) -&gt; () in closure #1 (Swift.Result&lt;__C.NSDictionary, mScoreKakkur.NetworkError&gt;) -&gt; () in mScoreKakkur.WalletServicesViewController.checkCardBalances() -&gt; (), Argument Types : [mScoreKakkur.WalletServicesViewController__C.NSDictionary]&gt; of mScoreKakkur.ParserViewModel.successFailhandler(statusCode: Swift.Int, modelInfo: __C.NSDictionary, exmsg: Swift.String, showFailure: mScoreKakkur.errorShow, vc: __C.UIViewController, msgShow: Swift.Bool, comepletion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "mScoreKakkur"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iOSWorkspce/mScoreNEW/mScoreNew/Helper/SessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "796">
+               </Location>
+               <Location
+                  uuid = "F188B90A-A0E5-43F1-8592-560122F3CEFF - 15a4de57358010c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[6] = Dead, Arg[7] = Owned To Guaranteed, Arg[8] = Owned To Guaranteed&gt; of function signature specialization &lt;Arg[6] = [Closure Propagated : closure #1 (Swift.Bool) -&gt; () in closure #1 (Swift.Int) -&gt; () in closure #1 (Swift.Result&lt;__C.NSDictionary, mScoreKakkur.NetworkError&gt;) -&gt; () in mScoreKakkur.WalletServicesViewController.bankCardMiniStateMent() -&gt; (), Argument Types : [mScoreKakkur.WalletServicesViewController__C.NSDictionary]&gt; of mScoreKakkur.ParserViewModel.successFailhandler(statusCode: Swift.Int, modelInfo: __C.NSDictionary, exmsg: Swift.String, showFailure: mScoreKakkur.errorShow, vc: __C.UIViewController, msgShow: Swift.Bool, comepletion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "mScoreKakkur"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iOSWorkspce/mScoreNEW/mScoreNew/Helper/SessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "764">
+               </Location>
+               <Location
+                  uuid = "F188B90A-A0E5-43F1-8592-560122F3CEFF - cf097dcc4943326f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[6] = Dead, Arg[7] = Owned To Guaranteed, Arg[8] = Owned To Guaranteed, Arg[9] = Owned To Guaranteed, Arg[10] = Owned To Guaranteed, Arg[11] = Owned To Guaranteed&gt; of function signature specialization &lt;Arg[6] = [Closure Propagated : closure #1 (Swift.Bool) -&gt; () in closure #1 (Swift.Int) -&gt; () in closure #1 (Swift.Result&lt;__C.NSDictionary, mScoreKakkur.NetworkError&gt;) -&gt; () in mScoreKakkur.WalletServicesViewController.(walletTopUpApi in _F960475223EDEB50945A6DF027BA089F)() -&gt; (), Argument Types : [{ var Swift.String }__C.NSDictionary{ var Swift.String }{ var Swift.String }{ var Swift.String }]&gt; of mScoreKakkur.ParserViewModel.successFailhandler(statusCode: Swift.Int, modelInfo: __C.NSDictionary, exmsg: Swift.String, showFailure: mScoreKakkur.errorShow, vc: __C.UIViewController, msgShow: Swift.Bool, comepletion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "mScoreKakkur"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iOSWorkspce/mScoreNEW/mScoreNew/Helper/SessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "788">
+               </Location>
+               <Location
+                  uuid = "F188B90A-A0E5-43F1-8592-560122F3CEFF - 8506cf3250f06675"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[6] = Dead&gt; of function signature specialization &lt;Arg[6] = [Closure Propagated : closure #1 (Swift.Bool) -&gt; () in closure #1 (Swift.Int) -&gt; () in closure #1 (Swift.Result&lt;__C.NSDictionary, mScoreKakkur.NetworkError&gt;) -&gt; () in mScoreKakkur.KSEBViewController.Recharge_KSEB_Bill() -&gt; (), Argument Types : []&gt; of mScoreKakkur.ParserViewModel.successFailhandler(statusCode: Swift.Int, modelInfo: __C.NSDictionary, exmsg: Swift.String, showFailure: mScoreKakkur.errorShow, vc: __C.UIViewController, msgShow: Swift.Bool, comepletion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "mScoreKakkur"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iOSWorkspce/mScoreNEW/mScoreNew/Helper/SessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "852">
+               </Location>
+               <Location
+                  uuid = "F188B90A-A0E5-43F1-8592-560122F3CEFF - ffe284ee8c6c9deb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[6] = Dead, Arg[7] = Owned To Guaranteed, Arg[8] = Owned To Guaranteed&gt; of function signature specialization &lt;Arg[6] = [Closure Propagated : closure #1 (Swift.Bool) -&gt; () in closure #1 (Swift.Int) -&gt; () in closure #2 (Swift.Result&lt;__C.NSDictionary, mScoreKakkur.NetworkError&gt;) -&gt; () in mScoreKakkur.RechOffersViewController.(RechargeOfferApi in _3C3305971E50D7CD8D0A0E293BD0CDEB)() -&gt; (), Argument Types : [__C.NSDictionarymScoreKakkur.RechOffersViewController]&gt; of mScoreKakkur.ParserViewModel.successFailhandler(statusCode: Swift.Int, modelInfo: __C.NSDictionary, exmsg: Swift.String, showFailure: mScoreKakkur.errorShow, vc: __C.UIViewController, msgShow: Swift.Bool, comepletion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "mScoreKakkur"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iOSWorkspce/mScoreNEW/mScoreNew/Helper/SessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "764">
+               </Location>
+               <Location
+                  uuid = "F188B90A-A0E5-43F1-8592-560122F3CEFF - 7acdbb2431f62c7b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[6] = Dead, Arg[7] = Owned To Guaranteed, Arg[8] = Owned To Guaranteed&gt; of function signature specialization &lt;Arg[6] = [Closure Propagated : closure #1 (Swift.Bool) -&gt; () in closure #1 (Swift.Int) -&gt; () in closure #1 (Swift.Result&lt;__C.NSDictionary, mScoreKakkur.NetworkError&gt;) -&gt; () in mScoreKakkur.ReachargeViewController.(RechargeListHistory in _6902B42E509D38DAF1966587C02F8D1D)() -&gt; (), Argument Types : [__C.NSDictionarymScoreKakkur.ReachargeViewController]&gt; of mScoreKakkur.ParserViewModel.successFailhandler(statusCode: Swift.Int, modelInfo: __C.NSDictionary, exmsg: Swift.String, showFailure: mScoreKakkur.errorShow, vc: __C.UIViewController, msgShow: Swift.Bool, comepletion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "mScoreKakkur"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iOSWorkspce/mScoreNEW/mScoreNew/Helper/SessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "764">
+               </Location>
+               <Location
+                  uuid = "F188B90A-A0E5-43F1-8592-560122F3CEFF - 8c3f09955247dd3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[6] = Dead, Arg[7] = Owned To Guaranteed, Arg[8] = Owned To Guaranteed, Arg[9] = Owned To Guaranteed&gt; of function signature specialization &lt;Arg[6] = [Closure Propagated : closure #1 (Swift.Bool) -&gt; () in closure #1 (Swift.Int) -&gt; () in closure #2 (Swift.Result&lt;__C.NSDictionary, mScoreKakkur.NetworkError&gt;) -&gt; () in mScoreKakkur.ReachargeViewController.RechargeNumberApi() -&gt; (), Argument Types : [__C.NSDictionarySwift.StringmScoreKakkur.ReachargeViewControllerSwift.Int]&gt; of mScoreKakkur.ParserViewModel.successFailhandler(statusCode: Swift.Int, modelInfo: __C.NSDictionary, exmsg: Swift.String, showFailure: mScoreKakkur.errorShow, vc: __C.UIViewController, msgShow: Swift.Bool, comepletion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "mScoreKakkur"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iOSWorkspce/mScoreNEW/mScoreNew/Helper/SessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "792">
+               </Location>
+               <Location
+                  uuid = "F188B90A-A0E5-43F1-8592-560122F3CEFF - e9c5bd114a67309a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[6] = Dead, Arg[7] = Owned To Guaranteed, Arg[8] = Owned To Guaranteed&gt; of function signature specialization &lt;Arg[6] = [Closure Propagated : closure #1 (Swift.Bool) -&gt; () in closure #1 (Swift.Int) -&gt; () in closure #1 (Swift.Result&lt;__C.NSDictionary, mScoreKakkur.NetworkError&gt;) -&gt; () in mScoreKakkur.FundTransferStatusViewController.OtherFundTransferHistory() -&gt; (), Argument Types : [__C.NSDictionarymScoreKakkur.FundTransferStatusViewController]&gt; of mScoreKakkur.ParserViewModel.successFailhandler(statusCode: Swift.Int, modelInfo: __C.NSDictionary, exmsg: Swift.String, showFailure: mScoreKakkur.errorShow, vc: __C.UIViewController, msgShow: Swift.Bool, comepletion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "mScoreKakkur"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iOSWorkspce/mScoreNEW/mScoreNew/Helper/SessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "764">
+               </Location>
+               <Location
+                  uuid = "F188B90A-A0E5-43F1-8592-560122F3CEFF - d3f636aab858de51"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[6] = Dead&gt; of function signature specialization &lt;Arg[6] = [Closure Propagated : closure #1 (Swift.Bool) -&gt; () in closure #1 (Swift.Int) -&gt; () in closure #2 (Swift.Result&lt;__C.NSDictionary, mScoreKakkur.NetworkError&gt;) -&gt; () in mScoreKakkur.KsebBillStatusViewController.(statusCheckApi in _24C25E368CD6E599D690D75F070643EB)() -&gt; (), Argument Types : []&gt; of mScoreKakkur.ParserViewModel.successFailhandler(statusCode: Swift.Int, modelInfo: __C.NSDictionary, exmsg: Swift.String, showFailure: mScoreKakkur.errorShow, vc: __C.UIViewController, msgShow: Swift.Bool, comepletion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "mScoreKakkur"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iOSWorkspce/mScoreNEW/mScoreNew/Helper/SessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "752">
+               </Location>
+               <Location
+                  uuid = "F188B90A-A0E5-43F1-8592-560122F3CEFF - 5baf3fee3fdedef4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[6] = Dead, Arg[7] = Owned To Guaranteed, Arg[8] = Owned To Guaranteed&gt; of function signature specialization &lt;Arg[6] = [Closure Propagated : closure #1 (Swift.Bool) -&gt; () in closure #1 (Swift.Int) -&gt; () in closure #2 (Swift.Result&lt;__C.NSDictionary, mScoreKakkur.NetworkError&gt;) -&gt; () in mScoreKakkur.OwnBankOtherAccountViewController.FundTransferLimit() -&gt; (), Argument Types : [mScoreKakkur.OwnBankOtherAccountViewController__C.NSDictionary]&gt; of mScoreKakkur.ParserViewModel.successFailhandler(statusCode: Swift.Int, modelInfo: __C.NSDictionary, exmsg: Swift.String, showFailure: mScoreKakkur.errorShow, vc: __C.UIViewController, msgShow: Swift.Bool, comepletion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "mScoreKakkur"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iOSWorkspce/mScoreNEW/mScoreNew/Helper/SessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "764">
+               </Location>
+               <Location
+                  uuid = "F188B90A-A0E5-43F1-8592-560122F3CEFF - 4fdef41fc094abeb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[6] = Dead, Arg[7] = Owned To Guaranteed, Arg[8] = Owned To Guaranteed&gt; of function signature specialization &lt;Arg[6] = [Closure Propagated : closure #1 (Swift.Bool) -&gt; () in closure #1 (Swift.Int) -&gt; () in closure #1 (Swift.Result&lt;__C.NSDictionary, mScoreKakkur.NetworkError&gt;) -&gt; () in mScoreKakkur.quickBalViewController.AccountNumberList() -&gt; (), Argument Types : [mScoreKakkur.quickBalViewController__C.NSDictionary]&gt; of mScoreKakkur.ParserViewModel.successFailhandler(statusCode: Swift.Int, modelInfo: __C.NSDictionary, exmsg: Swift.String, showFailure: mScoreKakkur.errorShow, vc: __C.UIViewController, msgShow: Swift.Bool, comepletion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "mScoreKakkur"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iOSWorkspce/mScoreNEW/mScoreNew/Helper/SessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "764">
+               </Location>
+               <Location
+                  uuid = "F188B90A-A0E5-43F1-8592-560122F3CEFF - b6849a95ba5ef52e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[6] = Dead, Arg[7] = Owned To Guaranteed, Arg[8] = Owned To Guaranteed&gt; of function signature specialization &lt;Arg[6] = [Closure Propagated : closure #1 (Swift.Bool) -&gt; () in closure #1 (Swift.Int) -&gt; () in closure #1 (Swift.Result&lt;__C.NSDictionary, mScoreKakkur.NetworkError&gt;) -&gt; () in mScoreKakkur.VirtualCardViewController.setImageOfClientAPI() -&gt; (), Argument Types : [mScoreKakkur.VirtualCardViewController__C.NSDictionary]&gt; of mScoreKakkur.ParserViewModel.successFailhandler(statusCode: Swift.Int, modelInfo: __C.NSDictionary, exmsg: Swift.String, showFailure: mScoreKakkur.errorShow, vc: __C.UIViewController, msgShow: Swift.Bool, comepletion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "mScoreKakkur"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iOSWorkspce/mScoreNEW/mScoreNew/Helper/SessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "764">
+               </Location>
+               <Location
+                  uuid = "F188B90A-A0E5-43F1-8592-560122F3CEFF - 56f1770a974c42c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[6] = Dead, Arg[7] = Owned To Guaranteed, Arg[8] = Owned To Guaranteed&gt; of function signature specialization &lt;Arg[6] = [Closure Propagated : closure #1 (Swift.Bool) -&gt; () in closure #1 (Swift.Int) -&gt; () in closure #1 (Swift.Result&lt;__C.NSDictionary, mScoreKakkur.NetworkError&gt;) -&gt; () in mScoreKakkur.VirtualCardViewController.(setGenerateIDAPI in _DF80F920BF6185AA0799D5F4C1D29400)() -&gt; (), Argument Types : [mScoreKakkur.VirtualCardViewController__C.NSDictionary]&gt; of mScoreKakkur.ParserViewModel.successFailhandler(statusCode: Swift.Int, modelInfo: __C.NSDictionary, exmsg: Swift.String, showFailure: mScoreKakkur.errorShow, vc: __C.UIViewController, msgShow: Swift.Bool, comepletion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "mScoreKakkur"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iOSWorkspce/mScoreNEW/mScoreNew/Helper/SessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "764">
+               </Location>
+               <Location
+                  uuid = "F188B90A-A0E5-43F1-8592-560122F3CEFF - 139660cb8532bec9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[6] = Dead, Arg[7] = Owned To Guaranteed, Arg[8] = Owned To Guaranteed&gt; of function signature specialization &lt;Arg[6] = [Closure Propagated : closure #1 (Swift.Bool) -&gt; () in closure #1 (Swift.Int) -&gt; () in closure #1 (Swift.Result&lt;__C.NSDictionary, mScoreKakkur.NetworkError&gt;) -&gt; () in mScoreKakkur.RechargeHistoryViewController.RechargeHistoryApi() -&gt; (), Argument Types : [__C.NSDictionarymScoreKakkur.RechargeHistoryViewController]&gt; of mScoreKakkur.ParserViewModel.successFailhandler(statusCode: Swift.Int, modelInfo: __C.NSDictionary, exmsg: Swift.String, showFailure: mScoreKakkur.errorShow, vc: __C.UIViewController, msgShow: Swift.Bool, comepletion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "mScoreKakkur"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/iOSWorkspce/mScoreNEW/mScoreNew/Helper/SessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "764">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

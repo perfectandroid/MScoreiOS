@@ -1,0 +1,6 @@
+framework module Pods_mScoreKakkur {
+  umbrella header "Pods-mScoreKakkur-umbrella.h"
+
+  export *
+  module * { export * }
+}

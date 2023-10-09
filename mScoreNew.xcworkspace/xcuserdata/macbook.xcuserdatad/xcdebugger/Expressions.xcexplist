@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in closure #1 in closure #2 in ReachargeViewController.RechargeNumberApi():ReachargeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "statusCode">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ParserViewModel.successFailhandler(statusCode:modelInfo:exmsg:showFailure:vc:msgShow:comepletion:):SessionManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in OwnBankOtherAccountViewController.FundTransferIntraBank():OwnBankOtherAccountViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "info.value(forKey: &quot;FundTransferIntraBankList&quot;) as? [NSDictionary] ?? []">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DashBoardViewController.tableView(_:cellForRowAt:):DashBoardViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #2 in HomeViewController.setAccountBalance():HomeViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "FundTransferStatusViewController.OtherFundTransferHistory():FundTransferStatusViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "TrnsDate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SplashViewController.setReseller():SplashViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #2 in OwnBankOtherAccountViewController.FundTransferLimit():OwnBankOtherAccountViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "DashBoardViewController.getChartDetails(_:urlPath:):DashBoardViewController.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
